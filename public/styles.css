@@ -1,0 +1,24 @@
+body
+{
+	padding: 30px;
+}
+
+.centered
+{
+	top: 0;
+	margin: auto;
+}
+
+ul
+{
+	padding-right: 15px;
+	width: fit-content;
+	border-radius: 10px;
+	background-color: #aa87de;
+}
+
+
+ul > li
+{
+	padding: 5px 0;
+}
